@@ -40,7 +40,6 @@ const router = createBrowserRouter([
         path : '/*',
         element : <PageNotFound></PageNotFound>
     }
-
 ])
 
 const App = () => {
